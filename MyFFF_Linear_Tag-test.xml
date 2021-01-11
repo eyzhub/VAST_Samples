@@ -37,7 +37,7 @@
                                 <![CDATA[https://iab-publicfiles.s3.amazonaws.com/vast/VAST-4.0-Short-Intro.mp4]]>
                             </MediaFile> -->
                             <MediaFile id="5241" delivery="streaming" height="0" type="application/x-mpegURL" width="0" scalable="1" maintainAspectRatio="1">
-                                <![CDATA[https://cdnapisec.kaltura.com/p/2031841/sp/203184100/playManifest/entryId/1_mo010rmz/protocol/https/format/applehttp/flavorIds/1_t8uqhpsd,1_di6o548a,1_edsptbde,1_0hgj0h15,1_rg7mn80j,1_hxgqs2gs/a.m3u8?uiConfId=46946323&playSessionId=05b7a78e-4f44-54e5-69ba-cd4f226e0082:11c5fe4f-8bbb-5e18-f7dd-3df6c55b3894&referrer=aHR0cHM6Ly93d3cua2FsdHVyYS5jb20vaW5kZXgucGhwL2V4dHdpZGdldC9wcmV2aWV3L3BhcnRuZXJfaWQvMjAzMTg0MS91aWNvbmZfaWQvNDY5NDYzMjMvZW50cnlfaWQvMV9tbzAxMHJtei9lbWJlZC9keW5hbWlj&clientTag=html5:v1.3.0]]>
+                                <![CDATA[https://cfvod.kaltura.com/hls/p/2031841/sp/203184100/serveFlavor/entryId/1_mo010rmz/v/1/pv/1/flavorId/1_0hgj0h15/name/a.mp4/index.m3u8]]>
                             </MediaFile>
                         </MediaFiles>
 
