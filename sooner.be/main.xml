@@ -47,7 +47,7 @@
        <MediaFile id="GDFP" delivery="progressive" width="854" height="480" type="video/webm" bitrate="139" scalable="true" maintainAspectRatio="true"><![CDATA[https://redirector.gvt1.com/videoplayback/id/b96674ee53e47835/itag/44/source/gfp_video_ads/requiressl/yes/acao/yes/mime/video%2Fwebm/ctier/L/ip/0.0.0.0/ipbits/0/expire/1610403929/sparams/ip,ipbits,expire,id,itag,source,requiressl,acao,mime,ctier/signature/6E8B2964EB3428D097683DDD939F470234AD1FC2.5C9F61E17574C0DE66BB3A338E564EC671410924/key/ck2/file/file.webm]]></MediaFile>
         -->
         <MediaFile id="GDFP" width="1280" height="720" delivery="progressive" type="video/mp4" bitrate="1953">
-          <![CDATA[https://ads.sooner.de/myfff.mp4]]>
+          <![CDATA[https://avod.sooner.de/myfff.mp4]]>
         </MediaFile>
       </MediaFiles>
      </Linear>
