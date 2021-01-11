@@ -24,8 +24,8 @@
                         </VideoClicks>
 
                         <MediaFiles>
-                            <MediaFile  delivery="streaming" width="1280" height="720" bitrate="1953" type="application/x-mpegURL">
-                                <![CDATA[https://cfvod.kaltura.com/hls/p/2031841/sp/203184100/serveFlavor/entryId/1_mo010rmz/v/1/pv/1/flavorId/1_0hgj0h15/name/a.mp4/index.m3u8]]>
+                            <MediaFile width="1280" height="720" delivery="progressive" type="video/mp4" bitrate="1953">
+                                <![CDATA[https://ads.sooner.de/myfff.mp4]]>
                             </MediaFile>
                         </MediaFiles>
 
