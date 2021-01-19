@@ -34,7 +34,7 @@
       </TrackingEvents>
       <AdParameters><![CDATA[custom_param=some_value]]></AdParameters>
       <VideoClicks>
-       <ClickThrough id="GDFP"><![CDATA[https://sooner.de/festivals/my-french-film-festival/]]></ClickThrough>
+       <ClickThrough id="GDFP"><![CDATA[https://stream.sooner.de/signin/subscribe]]></ClickThrough>
       </VideoClicks>
       <MediaFiles>
        <MediaFile id="GDFP" delivery="progressive" width="1920" height="1080" type="video/mp4" bitrate="4271" scalable="true" maintainAspectRatio="true"><![CDATA[https://avod.sooner.de/myfff/sooner-myfff-bump3-new-hd_1080-web-h264_4000.mp4]]></MediaFile>
