@@ -37,14 +37,22 @@
        <ClickThrough id="GDFP"><![CDATA[https://stream.sooner.be/signin/subscribe]]></ClickThrough>
       </VideoClicks>
       <MediaFiles>
-       <MediaFile id="GDFP" delivery="progressive" width="1920" height="1080" type="video/mp4" bitrate="4271" scalable="true" maintainAspectRatio="true"><![CDATA[https://avod.sooner.be/sooner.be/preroll-benelux-15-new-hd_1080-web-h264_4000.mp4]]></MediaFile>
-       <MediaFile id="GDFP" delivery="progressive" width="1280" height="720" type="video/mp4" bitrate="2746" scalable="true" maintainAspectRatio="true"><![CDATA[https://avod.sooner.be/sooner.be/preroll-benelux 15 new-hd_720-web-h264_2500.mp4]]></MediaFile>
+       <!-- <MediaFile id="GDFP" delivery="progressive" width="1920" height="1080" type="video/mp4" bitrate="4271" scalable="true" maintainAspectRatio="true"><![CDATA[https://avod.sooner.be/sooner.be/preroll-benelux-15-new-hd_1080-web-h264_4000.mp4]]></MediaFile>
+       <MediaFile id="GDFP" delivery="progressive" width="1280" height="720" type="video/mp4" bitrate="2746" scalable="true" maintainAspectRatio="true"><![CDATA[https://avod.sooner.be/sooner.be/preroll-benelux-15-new-hd_720-web-h264_2500.mp4]]></MediaFile>
        <MediaFile id="GDFP" delivery="progressive" width="1280" height="720" type="video/mp4" bitrate="1543" scalable="true" maintainAspectRatio="true"><![CDATA[https://avod.sooner.be/sooner.be/preroll-benelux-15-sd_large-web_mbl-h264_1500.mp4]]></MediaFile>
        <MediaFile id="GDFP" delivery="progressive" width="960" height="540" type="video/mp4" bitrate="977" scalable="true" maintainAspectRatio="true"><![CDATA[https://avod.sooner.be/sooner.be/preroll-benelux-15-sd_small-web_mbl-h264_900.mp4]]></MediaFile>
        <MediaFile id="GDFP" delivery="progressive" width="854" height="480" type="video/mp4" bitrate="718" scalable="true" maintainAspectRatio="true"><![CDATA[https://avod.sooner.be/sooner.be/preroll-benelux-15-basic_small-web_mbl-h264_600.mp4]]></MediaFile>
        <MediaFile id="GDFP" delivery="progressive" width="640" height="360" type="video/mp4" bitrate="513" scalable="true" maintainAspectRatio="true"><![CDATA[https://avod.sooner.be/sooner.be/preroll-benelux-15-basic_small-web_mbl-h264_400.mp4]]></MediaFile>
        <MediaFile id="GDFP" delivery="progressive" width="640" height="360" type="video/webm" bitrate="967" scalable="true" maintainAspectRatio="true"><![CDATA[https://avod.sooner.be/sooner.be/preroll-benelux-15-webm.webm]]></MediaFile>
-       <MediaFile id="GDFP" delivery="progressive" width="360" height="176" type="video/3gpp" bitrate="455" scalable="true" maintainAspectRatio="true"><![CDATA[https://avod.sooner.be/sooner.be/preroll-benelux-15-final-mobile.3gp]]></MediaFile>
+       <MediaFile id="GDFP" delivery="progressive" width="360" height="176" type="video/3gpp" bitrate="455" scalable="true" maintainAspectRatio="true"><![CDATA[https://avod.sooner.be/sooner.be/preroll-benelux-15-final-mobile.3gp]]></MediaFile> -->
+       <MediaFile id="GDFP" delivery="progressive" width="1920" height="1080" type="video/mp4" bitrate="4271" scalable="true" maintainAspectRatio="true"><![CDATA[https://avod.sooner.be/sooner.be/preroll-myfff-new-hd_1080-web-h264_4000.mp4]]></MediaFile>
+       <MediaFile id="GDFP" delivery="progressive" width="1280" height="720" type="video/mp4" bitrate="2746" scalable="true" maintainAspectRatio="true"><![CDATA[https://avod.sooner.be/sooner.be/preroll-myfff-new-hd_720-web-h264_2500.mp4]]></MediaFile>
+       <MediaFile id="GDFP" delivery="progressive" width="1280" height="720" type="video/mp4" bitrate="1543" scalable="true" maintainAspectRatio="true"><![CDATA[https://avod.sooner.be/sooner.be/preroll-myfff-sd_large-web_mbl-h264_1500.mp4]]></MediaFile>
+       <MediaFile id="GDFP" delivery="progressive" width="960" height="540" type="video/mp4" bitrate="977" scalable="true" maintainAspectRatio="true"><![CDATA[https://avod.sooner.be/sooner.be/preroll-myfff-sd_small-web_mbl-h264_900.mp4]]></MediaFile>
+       <MediaFile id="GDFP" delivery="progressive" width="854" height="480" type="video/mp4" bitrate="718" scalable="true" maintainAspectRatio="true"><![CDATA[https://avod.sooner.be/sooner.be/preroll-myfff-basic_small-web_mbl-h264_600.mp4]]></MediaFile>
+       <MediaFile id="GDFP" delivery="progressive" width="640" height="360" type="video/mp4" bitrate="513" scalable="true" maintainAspectRatio="true"><![CDATA[https://avod.sooner.be/sooner.be/preroll-myfff-basic_small-web_mbl-h264_400.mp4]]></MediaFile>
+       <MediaFile id="GDFP" delivery="progressive" width="640" height="360" type="video/webm" bitrate="967" scalable="true" maintainAspectRatio="true"><![CDATA[https://avod.sooner.be/sooner.be/preroll-myfff-webm.webm]]></MediaFile>
+       <MediaFile id="GDFP" delivery="progressive" width="360" height="176" type="video/3gpp" bitrate="455" scalable="true" maintainAspectRatio="true"><![CDATA[https://avod.sooner.be/sooner.be/preroll-myfff-final-mobile.3gp]]></MediaFile>
         <!-- <MediaFile id="GDFP" width="1280" height="720" delivery="progressive" type="video/mp4" bitrate="1953">
           <![CDATA[https://avod.sooner.de/myfff.mp4]]>
         </MediaFile> -->
